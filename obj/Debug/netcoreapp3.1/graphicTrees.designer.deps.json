@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WriteableBitmapEx/1.6.7": {
+        "runtime": {
+          "lib/netcoreapp3.0/WriteableBitmapEx.Wpf.dll": {
+            "assemblyVersion": "1.6.7.0",
+            "fileVersion": "1.6.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WriteableBitmapEx/1.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GoPhIdYzG/DWJq/MADb8gFzRN5PsxM+1DSJFS8Jzupg4DXqFSnlejYEjJw4ffPEUyELL07O4XIGUZydE4jQK0Q==",
+      "path": "writeablebitmapex/1.6.7",
+      "hashPath": "writeablebitmapex.1.6.7.nupkg.sha512"
+    }
+  }
+}
