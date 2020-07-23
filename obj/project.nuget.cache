@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "68qAtVpmSwjIoglag6cvaK3zgYGyMVmOMLBMBuqaAJTvOye9RK8K6Dh3c8EAtM3JAXnHA5qzNm/hqQvueTslSQ==",
+  "dgSpecHash": "HmbdsXi3zVj9fpleCo11qLxv0aWuz4CwVSlshjoBSMRCjqpV80lcVb10c3LX2zMTzyeymUEVujV2GzKsjxfk5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Earl\\source\\repos\\graphicTrees\\graphicTrees.csproj",
+  "projectFilePath": "C:\\Users\\Earl\\source\\repos\\Acearl\\graphicTrees\\graphicTrees.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Earl\\.nuget\\packages\\writeablebitmapex\\1.6.7\\writeablebitmapex.1.6.7.nupkg.sha512"
   ],

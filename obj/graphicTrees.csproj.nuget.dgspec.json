@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Earl\\source\\repos\\graphicTrees\\graphicTrees.csproj": {}
+    "C:\\Users\\Earl\\source\\repos\\Acearl\\graphicTrees\\graphicTrees.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Earl\\source\\repos\\graphicTrees\\graphicTrees.csproj": {
+    "C:\\Users\\Earl\\source\\repos\\Acearl\\graphicTrees\\graphicTrees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Earl\\source\\repos\\graphicTrees\\graphicTrees.csproj",
+        "projectUniqueName": "C:\\Users\\Earl\\source\\repos\\Acearl\\graphicTrees\\graphicTrees.csproj",
         "projectName": "graphicTrees",
-        "projectPath": "C:\\Users\\Earl\\source\\repos\\graphicTrees\\graphicTrees.csproj",
+        "projectPath": "C:\\Users\\Earl\\source\\repos\\Acearl\\graphicTrees\\graphicTrees.csproj",
         "packagesPath": "C:\\Users\\Earl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Earl\\source\\repos\\graphicTrees\\obj\\",
+        "outputPath": "C:\\Users\\Earl\\source\\repos\\Acearl\\graphicTrees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Earl\\AppData\\Roaming\\NuGet\\NuGet.Config",
